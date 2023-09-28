@@ -1,1 +1,1 @@
-# Photo_Processor_python
+Built a comprehensive photo processing application in Python that empowers users to transform and refine their images into masterpieces. This versatile tool offers an extensive array of features, including a wide range of filters, artistic effects, and precise adjustments. Whether you want to enhance the colors, remove imperfections, apply creative filters, or even batch-process multiple photos, this project provides an all-in-one solution to cater to your image editing needs with finesse and convenience.
